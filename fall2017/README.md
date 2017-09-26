@@ -1,2 +1,2 @@
 # Fall 2017
-- [Intro To GGPlot](./introToGGPlot/)
+- [Intro To GGPlot](./ggplot.html)
